@@ -1,0 +1,26 @@
+{
+  "name": "js13k2019-yet-another-doom-clone-electron",
+  "version": "1.0.0",
+  "description": "Yet another doom clone (in Electron.js)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overwatcheddude/js13k2019-yet-another-doom-clone-electron.git"
+  },
+  "keywords": [
+    "electron",
+    "game"
+  ],
+  "author": "overwatcheddude",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/overwatcheddude/js13k2019-yet-another-doom-clone-electron/issues"
+  },
+  "homepage": "https://github.com/overwatcheddude/js13k2019-yet-another-doom-clone-electron#readme",
+  "devDependencies": {
+    "electron": "^19.0.10"
+  }
+}
